@@ -7045,6 +7045,28 @@ button.bg-dark:focus {
   background-color: #1d2124 !important;
 }
 
+/* #CV button style */
+.buttoncv {
+  padding: 14px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 3px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: black;
+  color: #ffbd39;
+  border: 2px solid #ffbd39;
+  border-radius: 5px;
+}
+
+.buttoncv:hover {
+  background-color: #ffbd39;
+  color: white;
+}
+/* #CV button style */
+
 .bg-white {
   background-color: #fff !important;
 }
