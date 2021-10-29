@@ -11526,6 +11526,13 @@ h5,
   text-transform: uppercase;
 }
 
+.resume-wrap .position2 {
+  font-size: 16px;
+  text-transform: None;
+  color: #ececf6;
+  letter-spacing: 0.35px;
+}
+
 .services-1 {
   margin-bottom: 40px;
   padding: 2em;
