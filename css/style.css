@@ -571,6 +571,10 @@ pre code {
   word-break: normal;
 }
 
+.about-me {
+  text-align: justify;
+}
+
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll;
@@ -11532,7 +11536,6 @@ h5,
   color: #ececf6;
   letter-spacing: 0.4px;
 }
-
 
 .services-1 {
   margin-bottom: 40px;
