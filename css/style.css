@@ -12602,6 +12602,12 @@ textarea.form-control {
   stroke-linecap: round;
 }
 
+.paper-type {
+  color: #ffbd39;
+  font-weight: 550;
+}
+
+
 @-webkit-keyframes loader-rotate {
   100% {
     -webkit-transform: rotate(360deg);
